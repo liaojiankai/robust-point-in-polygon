@@ -1,6 +1,6 @@
 {
   "name": "@ernan2/robust-point-in-polygon",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "keywords": [],
   "main": "dist/robust-point-in-polygon.umd.js",
